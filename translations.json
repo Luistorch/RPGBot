@@ -317,4 +317,57 @@
       ]
     }
   },
+  "es": {
+    "Admin": {
+      "repeatcommand": "",
+      "purge": [
+        "No se pueden purgar 100 mensajes",
+        ""
+      ]
+    },
+    "Characters": {
+      "characters": [
+        "Liste todos sus personajes",
+        "El usuario no tiene personajes para mostrar"
+      ],
+      "allchars": [
+        "Lista de todos los personajes",
+        "Sin personajes a mostrar"
+      ],
+      "character": [
+        "Obtener información de un personaje",
+        "Ese personaje no existe",
+        "Nombre",
+        "Propietario",
+        "Nivel",
+        "Vida",
+        "Equipo",
+        "Información adicional"
+      ],
+      "character.create": [
+        "Crea un nuevo personaje",
+        "Y existe un personaje con el mismo nombre",
+        "Describa su personaje",
+        "Cual es el nivel del personaje",
+        "¿Información adicional? (Añada una imágen para su personaje con la palabra clave `image`. Utilize esta sintaxis: `image: http://image.com/image.jpg, cabelo: louro` (Separe con coma o en una nueva línea)",
+        "¡Sintaxis inválida!",
+        "¡Personaje creado! `rp!team addmember` ¡Para añadirlo a su equipo!"
+      ],
+      "character.delete": [
+        "Eliminar un personaje (Debe ser el propietario de este)",
+        "¡Este personaje no existe!",
+        "¡No eres el dueño de este personaje!",
+        "Personaje eliminado"
+      ]
+    },
+    "Economy": {
+      "economy": "Vea su saldo o el de otro usuario",
+      "setbalance": [
+
+      ],
+      "givemoney": [
+
+      ]
+    }
+  },
 }
